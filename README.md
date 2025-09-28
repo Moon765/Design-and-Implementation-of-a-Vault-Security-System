@@ -145,7 +145,7 @@ cp "Design and Implementation of a Vault Security.pdf" ./</code></pre>
 </code></pre>
 
 <h2 id="references">📚 References</h2>
-<p>For full methodology, figures, and citations, see the PDF: <a href="./Design%20and%20Implementation%20of%20a%20Vault%20Security.pdf">Design and Implementation of a Vault Security System</a>.</p>
+<p>For full methodology, figures, and citations, see the PDF: <a href="https://github.com/Moon765/Design-and-Implementation-of-a-Vault-Security-System/blob/main/Project%20book.pdf">Design and Implementation of a Vault Security System</a>.</p>
 
 <hr/>
 
