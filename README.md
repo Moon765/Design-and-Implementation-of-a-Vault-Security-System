@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="./Design%20and%20Implementation%20of%20a%20Vault%20Security.pdf">📄 View the full paper (PDF)</a> ·
+  <a href="https://github.com/Moon765/Design-and-Implementation-of-a-Vault-Security-System/blob/main/Project%20book.pdf">📄 View the full paper (PDF)</a> ·
   <a href="#features">Features</a> ·
   <a href="#architecture">Architecture</a> ·
   <a href="#hardware">Hardware</a> ·
